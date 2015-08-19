@@ -12,3 +12,5 @@ CLIENT_SECRET = ""
 REDIRECT_URI = "http://localhost:8080/handle_user_decision"
 SCOPE = "read write"
 ```
+
+This is the Zopim version of this tutorial here: https://support.zendesk.com/hc/en-us/articles/204210446-Zendesk-REST-API-tutorial-Building-an-OAuth-web-app
